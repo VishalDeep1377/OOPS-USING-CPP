@@ -221,9 +221,8 @@ g++ *.cpp -o app && .\app.exe
 
 # 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: your-linkedin
-💻 GitHub: your-github
+📧 Email: vishalyep1022@gmail.com
+
 
 ---
 
